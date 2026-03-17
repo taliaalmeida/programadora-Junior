@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+print("Seu nome é ", nome , "e sua idade é ", idade)
+cidade = input("Sua cidade é: ")
+print(f"Seu nome é {nome}, sua idade é {idade} e sua cidade é {cidade}")
